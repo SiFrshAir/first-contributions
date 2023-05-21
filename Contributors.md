@@ -91,6 +91,7 @@
 - [Jackeastern](https://github.com/Jackeastern)
 - [Chris Pan](https://github.com/szupzj18)
 - [Aery Zhao](https://github.com/aeryzhao)
+- [Josiah Plummer](https://github.com/SiFrshAir)
 - [Pirajesh M R](https://github.com/verz0)
 - [Allan Robert Tan](https://github.com/eillanrt)
 - [nionyn](https://github.com/nionyn)
